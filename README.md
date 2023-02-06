@@ -28,6 +28,13 @@ Execução de exercícios associados ao tema Programação Dinâmica.
   title="Imagem 2"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
+### Coin Change
+<img
+  src="img/CoinChange.png"
+  alt="Imagem 3"
+  title="Imagem 3"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
 
 ## Descrição dos Problemas
 ### Longest Increasing Subsequence
@@ -36,16 +43,16 @@ Disponível em: https://leetcode.com/problems/longest-increasing-subsequence/des
 
 ### Triangle
 Disponível em: https://leetcode.com/problems/triangle/description/
+
+
+### Coin Change
+Disponível em: https://leetcode.com/problems/coin-change/description/
+
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+O único pré-requisito para rodar os códigos é possuir a linguagem python instalada.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
