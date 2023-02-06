@@ -1,34 +1,41 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Resolvidos - Dupla 08
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0054832  |  Arthur Talles de Sousa Cunha |
+| 18/0121995 |  Herick de Carvalho Lima |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Execução de exercícios associados ao tema Programação Dinâmica.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Sumissões
 
+### Longest Increasing Subsequence
+<img
+  src="img/subsequência mais longa.png"
+  alt="Imagem 1"
+  title="Imagem 1"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+### Triangle
+<img
+  src="img/Triângulo.PNG"
+  alt="Imagem 2"
+  title="Imagem 2"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+
+## Descrição dos Problemas
+### Longest Increasing Subsequence
+
+Disponível em: https://leetcode.com/problems/longest-increasing-subsequence/description/
+
+### Triangle
+Disponível em: https://leetcode.com/problems/triangle/description/
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
