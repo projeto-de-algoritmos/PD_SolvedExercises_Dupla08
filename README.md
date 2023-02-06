@@ -16,7 +16,7 @@ Execução de exercícios associados ao tema Programação Dinâmica.
 
 ### Longest Increasing Subsequence
 <img
-  src="img/subsequência mais longa.png"
+  src="img/subsequência mais longa.PNG"
   alt="Imagem 1"
   title="Imagem 1"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
