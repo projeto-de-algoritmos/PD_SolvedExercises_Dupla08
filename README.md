@@ -43,6 +43,13 @@ Execução de exercícios associados ao tema Programação Dinâmica.
   title="Imagem 3"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
+### Maximum Product Subarray
+<img
+  src="img/max produt.PNG"
+  alt="Imagem 4"
+  title="Imagem 4"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
 
 ## Descrição dos Problemas
 ### Longest Increasing Subsequence
@@ -59,6 +66,9 @@ Disponível em: https://leetcode.com/problems/coin-change/description/
 
 ### Minimum Path Sum
 Disponível em: https://leetcode.com/problems/minimum-path-sum/description/
+
+### Maximum Product Subarray
+Disponível em: https://leetcode.com/problems/maximum-product-subarray/description/
 
 ## Instalação 
 **Linguagem**: Python<br>
