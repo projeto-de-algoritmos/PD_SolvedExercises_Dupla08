@@ -28,14 +28,23 @@ Execução de exercícios associados ao tema Programação Dinâmica.
   title="Imagem 2"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
+### Maximum Product Subarray
+<img
+  src="img/max produt.PNG"
+  alt="Imagem 3"
+  title="Imagem 3"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
 
 ## Descrição dos Problemas
 ### Longest Increasing Subsequence
-
 Disponível em: https://leetcode.com/problems/longest-increasing-subsequence/description/
 
 ### Triangle
 Disponível em: https://leetcode.com/problems/triangle/description/
+
+### Maximum Product Subarray
+Disponível em: https://leetcode.com/problems/maximum-product-subarray/description/
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
