@@ -36,6 +36,14 @@ Execução de exercícios associados ao tema Programação Dinâmica.
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
+### Minimum Path Sum
+<img
+  src="img/MinimumPathSum.png"
+  alt="Imagem 3"
+  title="Imagem 3"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+
 ## Descrição dos Problemas
 ### Longest Increasing Subsequence
 
@@ -47,6 +55,10 @@ Disponível em: https://leetcode.com/problems/triangle/description/
 
 ### Coin Change
 Disponível em: https://leetcode.com/problems/coin-change/description/
+
+
+### Minimum Path Sum
+Disponível em: https://leetcode.com/problems/minimum-path-sum/description/
 
 ## Instalação 
 **Linguagem**: Python<br>
